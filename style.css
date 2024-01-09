@@ -1,0 +1,10 @@
+
+#cont{border-radius: 0; border-color: black;background-color: rgb(62, 62, 197); text-align: center; grid-auto-columns: auto;grid-row: auto;}  
+
+h1{color: rgb(255, 255, 255); border-radius: 0; padding: 50px; margin: auto;
+background: #7e7d7e; text-align :center }
+
+#hist{ background-color: rgb(109, 197, 109); border-radius: 25px; color: whitesmoke; padding: 20px; margin: 50px;}
+
+#future{ background-color: rgb(109, 197, 109); border-radius: 25px; color: whitesmoke; padding: 20px; margin: 50px;}
+footer{text-align: center; padding: auto; margin: auto; }
